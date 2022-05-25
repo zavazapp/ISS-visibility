@@ -7,6 +7,6 @@ Python code to check if you can see International Space Station on the night sky
 
 Find your latitude and longitude and change code:
 
-  MY_LAT = your_latitude
-  MY_LONG = your_longitude
+  <p>MY_LAT = your_latitude</p>
+  <p>MY_LONG = your_longitude</p>
 
